@@ -1,0 +1,15 @@
+div{
+    background-color: tomato;
+    width: 250px;
+    height: 200px;
+    border-style: solid;
+    font-size: 55px;
+}
+#secondDiv{
+    border-radius: 90%;
+    text-align: center;
+}
+#thirdButton{
+    background-color: crimson;
+    height: 33px;
+}
