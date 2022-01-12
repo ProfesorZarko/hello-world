@@ -1,0 +1,10 @@
+body{
+    background-color: lightsalmon;
+    columns: white;
+    font-size: 25px;
+}
+div{
+    width: 250px;
+    font-size: 25px;
+    background-color: lightyellow;
+}
