@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+}
+#mapDiv{
+    background-color: aliceblue;
+    height: 300px;
+    width: 300px;
+    align-content: center;
+}
+#userList{
+    background-color: blanchedalmond;
+}
